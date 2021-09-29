@@ -1,4 +1,5 @@
 # La chouette agence
+
 ## Fourth project with Openclassrooms
 
 The objective of this project was to optimize an already existing website. For that, it was important to:
