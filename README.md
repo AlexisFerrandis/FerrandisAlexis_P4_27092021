@@ -12,8 +12,8 @@ The objective of this project was to optimize an already existing website. For t
 
 ### Initial home page, Desktop then mobile
 
-![Screenchot-preview](./report/img/home-bef-desk.PNG)
 ![Screenchot-preview](./report/img/home-bef-mobile.PNG)
+![Screenchot-preview](./report/img/home-bef-desk.PNG)
 
 ### Optimized home page, Desktop then mobile
 
