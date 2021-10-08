@@ -365,6 +365,10 @@ span {
 	z-index: 2;
 }
 
+.col-sm-6 a img {
+	margin: 0 auto;
+}
+
 @media (min-width: 768px) {
 	.site-navigation {
 		position: absolute;
@@ -519,9 +523,13 @@ button {
 	position: fixed;
 	bottom: 20px;
 	right: 20px;
-	opacity: 0;
+	opacity: 0.3;
 	z-index: 500;
 	transition: all 0.3s ease-in-out;
+}
+
+.scrollToTop:hover {
+	opacity: 1;
 }
 
 .scrollToTop span {
