@@ -57,7 +57,7 @@ The objective of this project was to optimize an already existing website. For t
 
 -   Provide sensible page titles that will make navigation easier. These titles will be the first item visible on search engines, so they need to be fine-tuned.
 
--   Specify the language of the site, here <html lang = "fr">
+-   Specify the language of the site, here lang = "fr".
 
 -   It is important to optimize the meta description tag, it must be concise, precise, and integrate the main keywords of the page and of the subject's semantic field.
 

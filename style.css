@@ -47,6 +47,9 @@ a:hover {
 .bloc-sm {
 	padding: 20px 50px;
 }
+img {
+	object-fit: cover;
+}
 .bg-b-edge,
 .bg-bl-edge,
 .bg-br-edge,
