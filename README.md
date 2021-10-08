@@ -10,7 +10,25 @@ The objective of this project was to optimize an already existing website. For t
 
 ## Lighthouse results
 
-...
+### Initial home page, Desktop then mobile
+
+![Screenchot-preview](./report/img/home-bef-desk.PNG)
+![Screenchot-preview](./report/img/home-bef-mobile.PNG)
+
+### Optimized home page, Desktop then mobile
+
+![Screenchot-preview](./report/img/home-aft-desk.PNG)
+![Screenchot-preview](./report/img/home-aft-mobile.PNG)
+
+### Initial contact page, Desktop then mobile
+
+![Screenchot-preview](./report/img/contact-bef-desk.PNG)
+![Screenchot-preview](./report/img/contact-bef-mobile.PNG)
+
+### Optimized contact page, Desktop then mobile
+
+![Screenchot-preview](./report/img/contact-aft-desk.PNG)
+![Screenchot-preview](./report/img/contact-aft-mobile.PNG)
 
 ## Recommendations application
 
@@ -18,8 +36,8 @@ The objective of this project was to optimize an already existing website. For t
 
 ## Before
 
-...
+![Screenchot-preview](./report/img/before.png)
 
 ## After
 
-...
+![Screenchot-preview](./report/img/after.png)
