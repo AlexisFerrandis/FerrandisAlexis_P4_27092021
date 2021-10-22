@@ -10,25 +10,7 @@ The objective of this project was to optimize an already existing website. For t
 
 ## Lighthouse results
 
-### Initial home page, Desktop then mobile
-
-![Screenchot-preview](./report/img/home-bef-mobile.PNG)
-![Screenchot-preview](./report/img/home-bef-desk.PNG)
-
-### Optimized home page, Desktop then mobile
-
-![Screenchot-preview](./report/img/home-aft-desk.PNG)
-![Screenchot-preview](./report/img/home-aft-mobile.PNG)
-
-### Initial contact page, Desktop then mobile
-
-![Screenchot-preview](./report/img/contact-bef-desk.PNG)
-![Screenchot-preview](./report/img/contact-bef-mobile.PNG)
-
-### Optimized contact page, Desktop then mobile
-
-![Screenchot-preview](./report/img/contact-aft-desk.PNG)
-![Screenchot-preview](./report/img/contact-aft-mobile.PNG)
+-   In the report repository.
 
 ## Recommendations application
 
