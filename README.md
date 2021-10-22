@@ -8,10 +8,6 @@ The objective of this project was to optimize an already existing website. For t
 -   The complete source code of the improved site;
 -   An optimization report including a comparison of the results (including loading speed and accessibility).
 
-## Lighthouse results
-
--   In the report repository.
-
 ## Recommendations application
 
 ### Accessibility
@@ -68,6 +64,11 @@ The objective of this project was to optimize an already existing website. For t
 -   Minify files to remove unnecessary characters and make them lighter.
 
 -   By compressing with Gzip, it is possible to considerably reduce the loading time of the site. It is one of the most efficient compression methods, reducing response time by up to 70%.
+
+
+## Lighthouse results
+
+-   In the report repository.
 
 ## Before
 
